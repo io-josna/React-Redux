@@ -1,0 +1,12 @@
+.card {
+  display: flex;
+  align-content: space-between;
+}
+.cart-items {
+  display: flex;
+  flex-wrap: nowrap;
+}
+/* .cart-value {
+  display: flex;
+  justify-content: center;
+} */
